@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nl-nd
+- 👀 I’m interested in programming and politics. 
+- 🌱 I’m currently learning python and ML.
+- 💞️ I’m looking to collaborate on my project that allow peaple to organize vote in any country using distributed and encrypted environment.
+- 📫 email me lying.lawyer@proton.me
